@@ -64,9 +64,13 @@ The dashboard uncovers key operational patterns, including:
 
 ## ▶️ How to Reproduce
 1. Clone this repo.
-2. Open the notebook in Jupyter or Google Colab and run all cells — this pulls fresh data directly from the Chicago Data Portal API.
-3. Load the cleaned data into MySQL and run `queries.sql` to reproduce the analysis.
-4. (Optional) Connect Tableau to the resulting table to rebuild the dashboard.
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Open the notebook in Jupyter or Google Colab and run all cells — this pulls fresh data directly from the Chicago Data Portal API.
+4. Load the cleaned data into MySQL and run `queries.sql` to reproduce the analysis.
+5. (Optional) Connect Tableau to the resulting table to rebuild the dashboard.
 
 ## 📄 License
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details. The underlying dataset is sourced from the City of Chicago Data Portal and used under its open data terms.
