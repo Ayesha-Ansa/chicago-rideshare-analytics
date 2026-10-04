@@ -69,7 +69,7 @@ The dashboard uncovers key operational patterns, including:
    pip install -r requirements.txt
    ```
 3. Open the notebook in Jupyter or Google Colab and run all cells — this pulls fresh data directly from the Chicago Data Portal API.
-4. Load the cleaned data into MySQL and run `queries.sql` to reproduce the analysis.
+4. Load the resulting cleaned CSV into MySQL using the Table Data Import Wizard (or `LOAD DATA LOCAL INFILE`), then run `queries.sql` in MySQL Workbench to reproduce the analysis.
 5. (Optional) Connect Tableau to the resulting table to rebuild the dashboard.
 
 ## 📄 License
