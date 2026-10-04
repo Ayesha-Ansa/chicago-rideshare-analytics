@@ -54,7 +54,7 @@ The dashboard uncovers key operational patterns, including:
 
 ## 🔗 Live Dashboard
 
-[![Dashboard Preview](images/dashboard-overview.png)](https://public.tableau.com/app/profile/ayesha.ansari2317/viz/chicagorideshareOperationsAnalysis/ChicagoRideshareOperationsDashboard_?publish=yes)
+dashboard-overview.png
 
 **Click the image above to explore the interactive Tableau dashboard live.**
 
