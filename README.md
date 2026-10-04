@@ -21,7 +21,7 @@ The goal of this dashboard is to help businesses, analysts, and city planners ma
 - ✅ **Custom Insights:** Includes findings such as the highest-fare zone, peak congestion hour, and busiest pickup zone.
 
 ## 📂 Dataset Used
-**Data Source:** [City of Chicago Data Portal](https://data.cityofchicago.org) — Transportation Network Providers (TNP) Trips dataset, which aggregates rideshare trip activity across Chicago-licensed TNP operators.
+**Data Source:** [City of Chicago Data Portal — Transportation Network Providers (TNP) Trips (2025-)](https://data.cityofchicago.org/d/6dvr-xwnh), which aggregates rideshare trip activity across Chicago-licensed TNP operators. This is the City's current, continuously updated TNP dataset (covering 2025 onward); the June-August 2026 data used in this project falls within it.
 
 **Note on scope:** this dataset does not include a provider-level identifier (i.e., it cannot distinguish which specific company operated a given trip). All findings in this project describe aggregate TNP/rideshare activity citywide, not any single provider.
 
