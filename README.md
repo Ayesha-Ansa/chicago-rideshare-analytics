@@ -11,7 +11,7 @@ The project combines API extraction, data cleaning, SQL analysis and an interact
 
 ## 🎥 Dashboard Walkthrough
 
-[▶ Watch the dashboard demonstration](chicago-rideshare-dashboard-demo.mp4)
+https://github.com/user-attachments/assets/7e3bf43a-7367-4b21-83de-3b910f482dc3
 
 The recording demonstrates month selection, hour-range adjustment, weekday filtering, chart updates and restoring the default view.
 
