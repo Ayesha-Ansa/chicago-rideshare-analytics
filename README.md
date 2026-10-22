@@ -26,7 +26,13 @@ This project brings those measures into one interactive dashboard, supported by 
 
 ## 🎥 Dashboard Walkthrough
 
-[Watch the dashboard walkthrough](<chicago-rideshare-dashboard-demo.mp4.mp4>)
+
+
+https://github.com/user-attachments/assets/d929b028-b97a-48e8-bc5a-1d21dfdaff1b
+
+
+
+
 
 The recording demonstrates month selection, hour-range adjustment, weekday filtering, chart updates and restoring the default view.
 
